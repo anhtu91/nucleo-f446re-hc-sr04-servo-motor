@@ -1,5 +1,5 @@
 # nucleo-f446re-hc-sr04-servo-motor
-Control servo motor and hc-sr04 using STM32F446RE
+Control servo motor and hc-sr04 using STM32F446RE to determine distance 
 
 Connect:
 - PA0 (A0) --> Orange cable Servo Motor
