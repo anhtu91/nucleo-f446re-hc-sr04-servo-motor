@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>howtouse</class>
+ <widget class="QDialog" name="howtouse">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>561</width>
+    <height>196</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>How to use</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>0</y>
+     <width>581</width>
+     <height>191</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;This programm control Servo Motor with uC like STM32, Arduino &lt;/p&gt;&lt;p&gt;and so on through Serial Port. &lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Send '1' to microcontroller to turn on .&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;Send '0' to microcontroller to turn off.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
